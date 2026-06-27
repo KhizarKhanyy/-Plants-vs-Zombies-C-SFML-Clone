@@ -1,2 +1,40 @@
-# -Plants-vs-Zombies-C-SFML-Clone
-A Plants vs Zombies-inspired 2D game built in C++ using the SFML  graphics library, developed as the Programming Fundamentals (PF)  semester project at Air University Islamabad.
+# 🌻 Plants vs Zombies Clone
+
+A clone of the classic **Plants vs Zombies** game developed in **C++** using the **SFML (Simple and Fast Multimedia Library)**.
+
+---
+
+## 📌 Project Overview
+
+This project recreates the famous Plants vs Zombies gameplay while applying Object-Oriented Programming concepts and game development techniques.
+
+Players defend their garden by strategically placing plants to stop waves of zombies before they reach the house.
+
+---
+
+## 🎮 Features
+
+- Main Menu
+- Multiple Zombie Types
+- Multiple Plant Types
+- Sun Collection System
+- Shooting Mechanics
+- Collision Detection
+- Health System
+- Wave System
+- Game Over Screen
+- Win Screen
+- Background Music
+- Sound Effects
+
+---
+
+## 🛠 Technologies Used
+
+- C++
+- SFML 3.0
+- Visual Studio 2022
+
+---
+
+## 📂 Project Structure
