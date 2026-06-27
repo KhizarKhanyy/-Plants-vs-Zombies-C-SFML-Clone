@@ -68,7 +68,7 @@ This project was developed using Programming Fundamentals concepts.
 Plants-vs-Zombies-C-SFML-Clone
 │
 ├── images/
-├── source.cpp
+├── main.cpp
 ├── leaderboard.txt
 ├── Poppins-Bold.otf
 ├── Project1.sln
@@ -91,11 +91,7 @@ Plants-vs-Zombies-C-SFML-Clone
 
 Clone the repository
 
-```bash
-git clone https://github.com/KhizarKhanyy/Plants-vs-Zombies-C-SFML-Clone.git
-```
 
-Open
 
 ```
 Project1.sln
