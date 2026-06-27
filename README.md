@@ -38,3 +38,32 @@ Players defend their garden by strategically placing plants to stop waves of zom
 ---
 
 ## 📂 Project Structure
+
+3. Build the project
+
+4. Run the project
+
+---
+
+## 🎯 Learning Objectives
+
+- Object-Oriented Programming
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Game Loops
+- Collision Detection
+- Event Handling
+- File Management
+- SFML Graphics Programming
+
+---
+
+## 👨‍💻 Author
+
+Khizar Alam
+
+BS Software Engineering
+
+Air University Islamabad
+
